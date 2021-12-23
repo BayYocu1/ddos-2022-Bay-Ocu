@@ -1,4 +1,6 @@
 # ddos-2022-Bay-Ocu
+
+##CLONE<br>##
 # $ apt update<br>
 # $ apt upgrade<br>
 # $ apt install python<br>
