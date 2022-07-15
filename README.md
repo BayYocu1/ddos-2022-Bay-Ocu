@@ -16,5 +16,3 @@ Note the IP Address of that Website<br>
 then <br>
 # $ cd ddos-2022-Bay-Ocu<br>
 # $ python BAY.py -s [ip Address] -t 135<br>
-example:<br>
-# $ python BAY.py -s 123.45.67.89 -t 135<br>
